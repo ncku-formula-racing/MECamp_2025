@@ -1,6 +1,6 @@
 // line_tracking
 /***********************************************************
- * Copyright (c) 2025 NCKU Formula Racing. All right reserved.
+ * Copyright (C) 2025 NCKU Formula Racing. All right reserved.
  ***********************************************************/
 
 /*
