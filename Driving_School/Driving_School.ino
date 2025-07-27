@@ -1,6 +1,6 @@
 // Driving_school
 /***********************************************************
- * Copyright 2025(c) NCKU Formula Racing. All right reserved.
+ * Copyright (C) 2025 NCKU Formula Racing. All right reserved.
  ***********************************************************/
 
 /*
